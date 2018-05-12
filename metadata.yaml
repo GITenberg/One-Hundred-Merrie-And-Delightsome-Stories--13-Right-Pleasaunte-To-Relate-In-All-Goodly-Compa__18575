@@ -21,6 +21,8 @@ covers:
 - cover_type: archival
   image_path: 18575-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18575#One-Hundred-Merrie-And-Delightsome-Stories--13-Right-Pleasaunte-To-Relate-In-All-Goodly-Compa_
 gutenberg_issued: '2006-06-13'
 gutenberg_type: Text
 identifiers:
