@@ -1,0 +1,39 @@
+_repo: One-Hundred-Merrie-And-Delightsome-Stories--13-Right-Pleasaunte-To-Relate-In-All-Goodly-Compa__18575
+_version: 0.1.0
+alternative_title: Cent nouvelles nouvelles. English
+contributor:
+  illustrator:
+    agent_name: Lebèque, Léon
+    alias: Lebeque, Leon
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '8127'
+    url: http://www.gutenberg.org/2009/agents/8127
+  translator:
+    agent_name: Douglas, Robert B. (Robert Bruce)
+    aliases:
+    - Douglas, Robert Bruce
+    - Douglas, R. B. (Robert Bruce)
+    birthdate: 1848
+    gutenberg_agent_id: '816'
+    url: http://www.gutenberg.org/2009/agents/816
+covers:
+- cover_type: archival
+  image_path: 18575-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2006-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelle'
+- !lcc 'PQ'
+- !lcsh 'Tales, Medieval'
+- !lcsh 'French fiction -- To 1500 -- Translations into English'
+title: "One Hundred Merrie And Delightsome Stories\r\nRight Pleasaunte To Relate In\
+  \ All Goodly Companie By Way Of Joyance And Jollity"
+url: http://www.gutenberg.org/ebooks/18575
